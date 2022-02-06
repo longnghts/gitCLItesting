@@ -1,0 +1,1 @@
+this is the readme for the testing of this git cli setup process
